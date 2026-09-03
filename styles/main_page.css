@@ -1,0 +1,25 @@
+body {
+    padding-left: 100px;
+    padding-top: 50px;
+    justify-content: center;
+}
+
+h1 {
+    font-size:xxx-large;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color:blue;
+}
+
+a:visited {
+    color:red;
+}
+
+a:hover {
+    color:green;
+}
